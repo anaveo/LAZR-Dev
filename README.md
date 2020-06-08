@@ -1,7 +1,7 @@
 # LAZR-Dev
 LAZR is a remote which uses hand gestures to control functions of a TV. I undertook this project to understand IR signals and learn Autodesk Eagle, a PCB design software.
 
-For more information click [here](https://omanavekar.wixsite.com/ommakes/lazr) to access LAZR's page on [omlabs.me](www.omlabs.me)
+For more information click [here](https://omanavekar.wixsite.com/ommakes/lazr) to access LAZR's page on [omlabs.me](https://omanavekar.wixsite.com/ommakes)
 
 ## Components
 * 5x Flex sensors
